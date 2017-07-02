@@ -4,6 +4,6 @@ This project was created during the jungedhackt event in Frankfurt during 30.06.
 
 This is the first version. You are invited to improve this origami version. 
 
-[![Watch the alpaca origami tutorial](placeholder.png)](http://source.to.github.mpr)
+[![Watch the alpaca origami tutorial](placeholder.png)](OrigamiJungedhacktAlpaca.mp4)
 
 Best regards -- jerik 
